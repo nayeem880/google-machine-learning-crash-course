@@ -8,7 +8,8 @@ Learn and apply fundamental machine learning concepts with the Crash Course, get
 
 #### 
 - Environment 
-  - Google Colaboratory Notebook
+  - Google Colaboratory Notebook [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tw6RjeB3lrJiv405yrMdY7tRpWB5u2Gi#scrollTo=4z1KiR6FpgVs)]
+
 - Dataset : 
   - California Housing Datasets
 - Framework & Platform :
